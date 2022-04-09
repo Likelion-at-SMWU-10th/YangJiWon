@@ -5,4 +5,5 @@
 
 | 강의 내용 | 캡쳐 | 
 |:------:|:------|
-|`일단 만드는 HTML/CSS`|<img width='782' alt='코드라이언 수강 인증' src= 'https://user-images.githubusercontent.com/101974118/162584254-33a5c2f6-44ab-4b5a-a10a-8574bb90b07c.png'>| 
+|`일단 만드는 HTML/CSS`|<img width='782' alt='코드라이언 수강 인증' src= 'https://user-images.githubusercontent.com/101974118/162584563-dd09a91f-6827-4d7f-8302-25ae43535cd4.png'>|
+ 
