@@ -15,5 +15,4 @@
 |`[심화] 같이 푸는 PYTHON(Chapter 2가 터미널에서 계속 오류가 떠요..!)`|![파이썬 심화2](https://user-images.githubusercontent.com/101974118/167264757-13eb1fc1-616c-4e6a-ac7f-b18f2d0bae37.png)|
 |`[심화] 같이 푸는 PYTHON`|![파이썬심화3](https://user-images.githubusercontent.com/101974118/167264771-a10682bb-ed6a-42af-a685-7878e910356a.png)|
 |`[심화] 같이 푸는 PYTHON`|![파이썬심화  4](https://user-images.githubusercontent.com/101974118/167264778-f27c5fa7-c0c5-4fac-b083-79ce06feabd7.png)|
-|`[심화] 같이 푸는 PYTHON`|![파이썬 심화5](https://user-images.githubusercontent.com/101974118/167264780-0abfbe2b-e479-4186-bb4d-3a0023ce592f.png)
-|
+|`[심화] 같이 푸는 PYTHON`|![-파이썬 심화5](https://user-images.githubusercontent.com/101974118/167264965-83f43f22-fb1e-4293-bc78-a99a9219c2e8.png)|
