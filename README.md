@@ -10,7 +10,7 @@
 | 강의 내용 | 캡쳐 | 
 |:------:|:------|
 |`일단 만드는 PYTHON & [심화] 같이 푸는 PYTHON`|![일단 만드는 PYTHON](https://user-images.githubusercontent.com/101974118/167264622-ee386deb-d81b-4bf5-b948-f59deeb2224e.png)|
-|`일단 만드는 PYTHON`|![파이썬 기본2](https://user-images.githubusercontent.com/101974118/167264718-836f4346-16b5-42da-9c65-470ade6f0c5e.png)|
+|`일단 만드는 PYTHON (Chapter 2가 터미널에서 계속 오류가 떠요..!)`|![파이썬 기본2](https://user-images.githubusercontent.com/101974118/167264718-836f4346-16b5-42da-9c65-470ade6f0c5e.png)|
 |`일단 만드는 PYTHON`|![파이썬 기본3](https://user-images.githubusercontent.com/101974118/167264728-5f9758e1-9b24-4f08-9184-57b449ebf4bc.png)|
 |`[심화] 같이 푸는 PYTHON`|![파이썬 심화2](https://user-images.githubusercontent.com/101974118/167264757-13eb1fc1-616c-4e6a-ac7f-b18f2d0bae37.png)|
 |`[심화] 같이 푸는 PYTHON`|![파이썬심화3](https://user-images.githubusercontent.com/101974118/167264771-a10682bb-ed6a-42af-a685-7878e910356a.png)|
