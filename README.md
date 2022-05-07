@@ -9,5 +9,5 @@
 
 | 강의 내용 | 캡쳐 | 
 |:------:|:------|
-|`일단 만드는 PYTHON & [심화] 같이 푸는 PYTHON`|<img width='782' alt='코드라이언 수강 인증' src= 'https://![일단 만드는 PYTHON](https://user-images.githubusercontent.com/101974118/167264515-be1b7887-cfac-4e41-a477-0adc1ca61313.png)|
+|`일단 만드는 PYTHON & [심화] 같이 푸는 PYTHON`|![일단 만드는 PYTHON](https://user-images.githubusercontent.com/101974118/167264622-ee386deb-d81b-4bf5-b948-f59deeb2224e.png)|
  
